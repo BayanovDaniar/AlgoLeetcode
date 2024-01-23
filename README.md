@@ -6,5 +6,3 @@ Here is an analysis of some algorithmic problems with leetcode
 Fuck this shit
 
 #VovaOvaVova
-
-
