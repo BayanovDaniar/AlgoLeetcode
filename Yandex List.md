@@ -9,7 +9,7 @@
 | 2241 | [[2241. Design an ATM Machine\|Design an ATM Machine]] | [](https://leetcode.com/problems/design-an-atm-machine) | Medium | 136.33 | ✔️ ❌ |
 | 228 | [[228. Summary Ranges\|Summary Ranges]] | [](https://leetcode.com/problems/summary-ranges) | Easy | 126.56 | ✔️ ❌ |
 | 362 | [[362. Design Hit Counter\|Design Hit Counter]] | [](https://leetcode.com/problems/design-hit-counter) | Medium | 99.78 | ✔️ ❌ |
-| 658 | [[658. Find K Closest Elements\|Find K Closest Elements]] | [](https://leetcode.com/problems/find-k-closest-elements) | Medium | 84.40 |  |
+| 658 | [[658. Find K Closest Elements\|Find K Closest Elements]] | [](https://leetcode.com/problems/find-k-closest-elements) | Medium | 84.40 | ✔️ ❌ |
 | 2625 | Flatten Deeply Nested Array | [](https://leetcode.com/problems/flatten-deeply-nested-array) | Medium | 67.79 |  |
 | 977 | Squares of a Sorted Array | [](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | 60.40 |  |
 | 487 | Max Consecutive Ones II | [](https://leetcode.com/problems/max-consecutive-ones-ii) | Medium | 52.30 |  |
@@ -45,7 +45,7 @@
 | 71 | Simplify Path | [](https://leetcode.com/problems/simplify-path) | Medium | 3.85 |  |
 | 101 | Symmetric Tree | [](https://leetcode.com/problems/symmetric-tree) | Easy | 3.51 |  |
 | 234 | Palindrome Linked List | [](https://leetcode.com/problems/palindrome-linked-list) | Easy | 3.43 |  |
-| 155 | Min Stack | [](https://leetcode.com/problems/min-stack) | Medium | 3.22 |  |
+| 155 | [[155. Min Stack\|Min Stack]] | [](https://leetcode.com/problems/min-stack) | Medium | 3.22 | ✔ ✔ |
 | 300 | Longest Increasing Subsequence | [](https://leetcode.com/problems/longest-increasing-subsequence) | Medium | 3.14 |  |
 | 42 | Trapping Rain Water | [](https://leetcode.com/problems/trapping-rain-water) | Hard | 2.75 |  |
 | 56 | Merge Intervals | [](https://leetcode.com/problems/merge-intervals) | Medium | 2.60 |  |
