@@ -9,7 +9,7 @@
 | 2241 | [[2241. Design an ATM Machine\|Design an ATM Machine]] | [](https://leetcode.com/problems/design-an-atm-machine) | Medium | 136.33 | ✔️ ❌ |
 | 228 | [[228. Summary Ranges\|Summary Ranges]] | [](https://leetcode.com/problems/summary-ranges) | Easy | 126.56 | ✔️ ❌ |
 | 362 | [[362. Design Hit Counter\|Design Hit Counter]] | [](https://leetcode.com/problems/design-hit-counter) | Medium | 99.78 | ✔️ ❌ |
-| 658 | Find K Closest Elements | [](https://leetcode.com/problems/find-k-closest-elements) | Medium | 84.40 |  |
+| 658 | [[658. Find K Closest Elements\|Find K Closest Elements]] | [](https://leetcode.com/problems/find-k-closest-elements) | Medium | 84.40 |  |
 | 2625 | Flatten Deeply Nested Array | [](https://leetcode.com/problems/flatten-deeply-nested-array) | Medium | 67.79 |  |
 | 977 | Squares of a Sorted Array | [](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | 60.40 |  |
 | 487 | Max Consecutive Ones II | [](https://leetcode.com/problems/max-consecutive-ones-ii) | Medium | 52.30 |  |
