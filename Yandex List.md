@@ -1,7 +1,7 @@
 
 | # | TITLE | LINK | DIFFICULTY | FREQUENCY | Completion |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| 356 | Line Reflection | [](https://leetcode.com/problems/line-reflection) | Medium | 289.38 |  |
+| 356 | [[356. Line Reflection \| Line Reflection]] | [](https://leetcode.com/problems/line-reflection) | Medium | 289.38 | ✅ |
 | 1493 | Longest Subarray of 1's After Deleting One Element | [](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | 239.56 |  |
 | 2636 | Promise Pool | [](https://leetcode.com/problems/promise-pool) | Medium | 234.29 |  |
 | 161 | One Edit Distance | [](https://leetcode.com/problems/one-edit-distance) | Medium | 184.47 |  |
