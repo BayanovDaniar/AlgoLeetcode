@@ -1,0 +1,104 @@
+#BinarySearch  #Array #Design  #Queue  
+
+<kbd><span style="color:orange;">#Medium</span> </kbd>
+[Leetcode Link](https://leetcode.ca/2016-11-26-362-Design-Hit-Counter/)
+
+---
+Design a hit counter which counts the number of hits received in the past `5` minutes (i.e., the past `300` seconds).
+
+Your system should accept a `timestamp` parameter (**in seconds** granularity), and you may assume that calls are being made to the system in chronological order (i.e., `timestamp` is monotonically increasing). Several hits may arrive roughly at the same time.
+
+Implement the `HitCounter` class:
+
+- `HitCounter()` Initializes the object of the hit counter system.
+- `void hit(int timestamp)` Records a hit that happened at `timestamp` (**in seconds**). Several hits may happen at the same `timestamp`.
+- `int getHits(int timestamp)` Returns the number of hits in the past 5 minutes from `timestamp` (i.e., the past `300` seconds).
+
+---
+Создайте счетчик обращений, который подсчитывает количество обращений, полученных за последние "5" минут (т.е. за последние "300` секунд).
+
+Ваша система должна принимать параметр `временная метка` (**в секундах** детализация), и вы можете предположить, что вызовы выполняются в системе в хронологическом порядке (т.е. `временная метка` монотонно увеличивается). Несколько обращений могут поступать примерно в одно и то же время.
+
+Реализуйте класс `HitCounter`:
+
+- `HitCounter()` Инициализирует объект системы счетчика обращений.
+- `void hit(int timestamp)` Записывает попадание, которое произошло в "timestamp" (**в секундах**). Несколько попаданий могут произойти в одну и ту же `временную метку`.
+- `int getHits(int timestamp)` Возвращает количество обращений за последние 5 минут из "временной метки" (т.е. за последние `300` секунд).
+
+---
+**Example 1:**
+```
+**Input**
+["HitCounter", "hit", "hit", "hit", "getHits", "hit", "getHits", "getHits"]
+[[], [1], [2], [3], [4], [300], [300], [301]]
+**Output**
+[null, null, null, null, 3, null, 4, 3]
+
+**Explanation**
+HitCounter hitCounter = new HitCounter();
+hitCounter.hit(1);       // hit at timestamp 1.
+hitCounter.hit(2);       // hit at timestamp 2.
+hitCounter.hit(3);       // hit at timestamp 3.
+hitCounter.getHits(4);   // get hits at timestamp 4, return 3.
+hitCounter.hit(300);     // hit at timestamp 300.
+hitCounter.getHits(300); // get hits at timestamp 300, return 4.
+hitCounter.getHits(301); // get hits at timestamp 301, return 3.
+```
+
+**Constraints:**
+
+- `1 <= timestamp <= 2 * 10^9`
+- All the calls are being made to the system in chronological order (i.e., `timestamp` is monotonically increasing).
+- At most `300` calls will be made to `hit` and `getHits`.
+
+
+<kbd><span style="color:red;"> Intuitive</span></kbd>
+
+
+
+<kbd><span style="color:red;"> Intuitive</span></kbd>
+
+`Time complexity: O(n)
+`Memory: O(300) ~ O(1)
+
+Создаем HashMap, где ключ отсортированное слово, значение - лист слов. Итерируемся по исходному массиву. Приводим каждое слово к массиву символов и сортируем. Добавляем по ключу наше слово. Возвращаем. 
+
+```java
+
+import java.util.ArrayDeque;
+
+public class HitCounter {
+    private ArrayDeque<Integer> hits;
+
+    public HitCounter() {
+        hits = new ArrayDeque<>();
+    }
+
+    public void hit(int timestamp) {
+        hits.addLast(timestamp);
+    }
+
+    public int getHits(int timestamp) {
+        while (!hits.isEmpty() && timestamp - hits.getFirst() >= 300) {
+            hits.removeFirst();
+        }
+        return hits.size();
+    }
+}
+
+```
+
+
+### Временная сложность
+
+1. **Метод `hit(int timestamp)`**:
+    
+    - Добавление элемента в `ArrayDeque` (двустороннюю очередь) выполняется за константное время, O(1).
+2. **Метод `getHits(int timestamp)`**:
+    
+    - Удаление устаревших меток времени из начала очереди также выполняется за константное время для каждого удаления, O(1). Однако, в худшем случае (когда все метки времени устарели и должны быть удалены), метод `getHits` может достичь O(n), где n — количество элементов в очереди. В среднем, если распределение посещений более или менее равномерное, сложность будет ближе к O(1), поскольку только часть элементов будет удалена за один вызов.
+### Пространственная сложность
+
+- **Пространственная сложность обоих методов, `hit` и `getHits`**, определяется размером `ArrayDeque`. В худшем случае, если все 300 секунд были активными (по одному хиту в каждую секунду), в очереди может быть до 300 элементов. Таким образом, пространственная сложность составляет O(300), что можно считать O(1), так как это фиксированное ограничение, не зависящее от общего количества поступающих хитов.
+
+В целом, использование `ArrayDeque` обеспечивает хорошую эффективность как по времени, так и по памяти, особенно учитывая, что в реальных условиях посещения могут быть распределены равномерно во времени, а не сгруппированы в один момент.
