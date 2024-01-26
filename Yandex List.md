@@ -5,7 +5,7 @@
 | 1493 | [[1493. Longest Subarray of 1's After Deleting One Element\|Longest Subarray of 1's After Deleting One Element]] | [](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | 239.56 | ✔️ ❌ |
 | 2636 | [[2636. Promise Pool\|Promise Pool]] | [](https://leetcode.com/problems/promise-pool) | Medium | 234.29 | ❌ ❌ |
 | 161 | [[161. One Edit Distance \|One Edit Distance]] | [](https://leetcode.com/problems/one-edit-distance) | Medium | 184.47 | ✔️ ❌ |
-| 849 | Maximize Distance to Closest Person | [](https://leetcode.com/problems/maximize-distance-to-closest-person) | Medium | 166.93 |  |
+| 849 | [[849. Maximize Distance to Closest Person\|Maximize Distance to Closest Person]] | [](https://leetcode.com/problems/maximize-distance-to-closest-person) | Medium | 166.93 | ✔️ ❌ |
 | 2241 | Design an ATM Machine | [](https://leetcode.com/problems/design-an-atm-machine) | Medium | 136.33 |  |
 | 228 | Summary Ranges | [](https://leetcode.com/problems/summary-ranges) | Easy | 126.56 |  |
 | 362 | Design Hit Counter | [](https://leetcode.com/problems/design-hit-counter) | Medium | 99.78 |  |
