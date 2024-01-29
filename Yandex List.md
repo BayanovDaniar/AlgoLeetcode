@@ -19,7 +19,7 @@
 | 2215 | Find the Difference of Two Arrays | [](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | 30.70 |  |
 | 1329 | Sort the Matrix Diagonally | [](https://leetcode.com/problems/sort-the-matrix-diagonally) | Medium | 30.31 |  |
 | 692 | Top K Frequent Words | [](https://leetcode.com/problems/top-k-frequent-words) | Medium | 27.01 |  |
-| 567 | Permutation in String | [](https://leetcode.com/problems/permutation-in-string) | Medium | 26.24 |  |
+| 567 | [[567. Permutation in String\|Permutation in String]] | [](https://leetcode.com/problems/permutation-in-string) | Medium | 26.24 |  |
 | 2657 | Find the Prefix Common Array of Two Arrays | [](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | 25.62 |  |
 | 443 | String Compression | [](https://leetcode.com/problems/string-compression) | Medium | 25.49 |  |
 | 350 | Intersection of Two Arrays II | [](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | 22.06 |  |
