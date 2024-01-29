@@ -11,7 +11,7 @@
 | 362 | [[362. Design Hit Counter\|Design Hit Counter]] | [](https://leetcode.com/problems/design-hit-counter) | Medium | 99.78 | ✔️ ❌ |
 | 658 | [[658. Find K Closest Elements\|Find K Closest Elements]] | [](https://leetcode.com/problems/find-k-closest-elements) | Medium | 84.40 | ✔️ ❌ |
 | 2625 | Flatten Deeply Nested Array | [](https://leetcode.com/problems/flatten-deeply-nested-array) | Medium | 67.79 |  |
-| 977 | Squares of a Sorted Array | [](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | 60.40 |  |
+| 977 | [[977. Squares of a Sorted Array\|Squares of a Sorted Array]] | [](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | 60.40 |  |
 | 487 | Max Consecutive Ones II | [](https://leetcode.com/problems/max-consecutive-ones-ii) | Medium | 52.30 |  |
 | 340 | Longest Substring with At Most K Distinct Characters | [](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) | Medium | 49.64 |  |
 | 380 | Insert Delete GetRandom O(1) | [](https://leetcode.com/problems/insert-delete-getrandom-o1) | Medium | 47.52 |  |
@@ -23,8 +23,8 @@
 | 2657 | Find the Prefix Common Array of Two Arrays | [](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | 25.62 |  |
 | 443 | String Compression | [](https://leetcode.com/problems/string-compression) | Medium | 25.49 |  |
 | 350 | Intersection of Two Arrays II | [](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | 22.06 |  |
-| 560 | Subarray Sum Equals K | [](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | 19.76 |  |
-| 438 | Find All Anagrams in a String | [](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | 18.81 |  |
+| 560 | [[560. Subarray Sum Equals K\|Subarray Sum Equals K]] | [](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | 19.76 |  |
+| 438 | [[438. Find All Anagrams in a String\|Find All Anagrams in a String]] | [](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | 18.81 |  |
 | 283 | Move Zeroes | [](https://leetcode.com/problems/move-zeroes) | Easy | 18.73 |  |
 | 680 | Valid Palindrome II | [](https://leetcode.com/problems/valid-palindrome-ii) | Easy | 16.81 |  |
 | 93 | Restore IP Addresses | [](https://leetcode.com/problems/restore-ip-addresses) | Medium | 15.01 |  |
