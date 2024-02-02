@@ -25,11 +25,11 @@
 | 350 | [[350. Intersection of Two Arrays II \|Intersection of Two Arrays II]] | [](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | 22.06 |  |
 | 560 | [[560. Subarray Sum Equals K\|Subarray Sum Equals K]] | [](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | 19.76 | ✔️ ❌ |
 | 438 | [[438. Find All Anagrams in a String\|Find All Anagrams in a String]] | [](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | 18.81 | ✔️ ❌ |
-| 283 | [[283. Move Zeroes\|Move Zeroes]] | [](https://leetcode.com/problems/move-zeroes) | Easy | 18.73 |  |
-| 680 | Valid Palindrome II | [](https://leetcode.com/problems/valid-palindrome-ii) | Easy | 16.81 |  |
+| 283 | [[283. Move Zeroes\|Move Zeroes]] | [](https://leetcode.com/problems/move-zeroes) | Easy | 18.73 | ✔️ ❌ |
+| 680 | [[Valid Palindrome II\|Valid Palindrome II]] | [](https://leetcode.com/problems/valid-palindrome-ii) | Easy | 16.81 | ✔️ ❌ |
 | 93 | Restore IP Addresses | [](https://leetcode.com/problems/restore-ip-addresses) | Medium | 15.01 |  |
 | 301 | Remove Invalid Parentheses | [](https://leetcode.com/problems/remove-invalid-parentheses) | Hard | 14.73 |  |
-| 205 | Isomorphic Strings | [](https://leetcode.com/problems/isomorphic-strings) | Easy | 14.50 |  |
+| 205 | [[205. Isomorphic Strings\|Isomorphic Strings]] | [](https://leetcode.com/problems/isomorphic-strings) | Easy | 14.50 | ✔️ ❌ |
 | 657 | Robot Return to Origin | [](https://leetcode.com/problems/robot-return-to-origin) | Easy | 13.26 |  |
 | 98 | Validate Binary Search Tree | [](https://leetcode.com/problems/validate-binary-search-tree) | Medium | 13.19 |  |
 | 125 | [[125. Valid Palindrome\|Valid Palindrome]] | [](https://leetcode.com/problems/valid-palindrome) | Easy | 11.48 | ✔️ ❌ |
