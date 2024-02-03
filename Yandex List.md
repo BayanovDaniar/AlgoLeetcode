@@ -12,7 +12,6 @@
 | 658 | [[658. Find K Closest Elements\|Find K Closest Elements]] | [](https://leetcode.com/problems/find-k-closest-elements) | Medium | 84.40 | ✔️ ❌ |
 | 2625 | Flatten Deeply Nested Array (JavaScriptOnly) | [](https://leetcode.com/problems/flatten-deeply-nested-array) | Medium | 67.79 |  |
 | 977 | [[977. Squares of a Sorted Array\|Squares of a Sorted Array]] | [](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | 60.40 | ✔️ ❌ |
-| 487 | Max Consecutive Ones II | [](https://leetcode.com/problems/max-consecutive-ones-ii) | Medium | 52.30 |  |
 | 340 | Longest Substring with At Most K Distinct Characters | [](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) | Medium | 49.64 |  |
 | 380 | Insert Delete GetRandom O(1) | [](https://leetcode.com/problems/insert-delete-getrandom-o1) | Medium | 47.52 |  |
 | 2694 | Event Emitter | [](https://leetcode.com/problems/event-emitter) | Medium | 34.83 |  |
@@ -30,8 +29,8 @@
 | 93 | Restore IP Addresses | [](https://leetcode.com/problems/restore-ip-addresses) | Medium | 15.01 |  |
 | 301 | Remove Invalid Parentheses | [](https://leetcode.com/problems/remove-invalid-parentheses) | Hard | 14.73 |  |
 | 205 | [[205. Isomorphic Strings\|Isomorphic Strings]] | [](https://leetcode.com/problems/isomorphic-strings) | Easy | 14.50 | ✔️ ❌ |
-| 657 | Robot Return to Origin | [](https://leetcode.com/problems/robot-return-to-origin) | Easy | 13.26 |  |
-| 98 | Validate Binary Search Tree | [](https://leetcode.com/problems/validate-binary-search-tree) | Medium | 13.19 |  |
+| 657 | [[657. Robot Return to Origin\|Robot Return to Origin]] | [](https://leetcode.com/problems/robot-return-to-origin) | Easy | 13.26 | ✔️ ❌ |
+| 98 | [[98. Validate Binary Search Tree\|Validate Binary Search Tree]] | [](https://leetcode.com/problems/validate-binary-search-tree) | Medium | 13.19 | ✔️ ❌ |
 | 125 | [[125. Valid Palindrome\|Valid Palindrome]] | [](https://leetcode.com/problems/valid-palindrome) | Easy | 11.48 | ✔️ ❌ |
 | 3 | Longest Substring Without Repeating Characters | [](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | 9.43 |  |
 | 200 | Number of Islands | [](https://leetcode.com/problems/number-of-islands) | Medium | 8.89 |  |
@@ -49,17 +48,17 @@
 | 300 | Longest Increasing Subsequence | [](https://leetcode.com/problems/longest-increasing-subsequence) | Medium | 3.14 |  |
 | 42 | [[42. Trapping Rain Water\|Trapping Rain Water]] | [](https://leetcode.com/problems/trapping-rain-water) | Hard | 2.75 | ✔️ ❌ |
 | 56 | Merge Intervals | [](https://leetcode.com/problems/merge-intervals) | Medium | 2.60 |  |
-| 206 | Reverse Linked List | [](https://leetcode.com/problems/reverse-linked-list) | Easy | 2.55 |  |
+| 206 | [[206. Reverse Linked List\|Reverse Linked List]] | [](https://leetcode.com/problems/reverse-linked-list) | Easy | 2.55 | ✔️ ❌ |
 | 150 | Evaluate Reverse Polish Notation | [](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | 2.15 |  |
 | 76 | Minimum Window Substring | [](https://leetcode.com/problems/minimum-window-substring) | Hard | 2.02 |  |
 | 124 | Binary Tree Maximum Path Sum | [](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard | 2.00 |  |
 | 347 | Top K Frequent Elements | [](https://leetcode.com/problems/top-k-frequent-elements) | Medium | 0.98 |  |
 | 5 | Longest Palindromic Substring | [](https://leetcode.com/problems/longest-palindromic-substring) | Medium | 0.80 |  |
-| 104 | Maximum Depth of Binary Tree | [](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | 0.77 |  |
+| 104 | [[104. Maximum Depth of Binary Tree\|Maximum Depth of Binary Tree]] | [](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | 0.77 | ✔️ ❌ |
 | 1 | [[1. Two Sum\|Two Sum]] | [](https://leetcode.com/problems/two-sum) | Easy | 0.69 | ✔️ ❌ |
 | 238 | Product of Array Except Self | [](https://leetcode.com/problems/product-of-array-except-self) | Medium | 0.67 |  |
-| 169 | Majority Element | [](https://leetcode.com/problems/majority-element) | Easy | 0.65 |  |
+| 169 | [[169. Majority Element\|Majority Element]] | [](https://leetcode.com/problems/majority-element) | Easy | 0.65 | ✔️ ❌ |
 | 2 | Add Two Numbers | [](https://leetcode.com/problems/add-two-numbers) | Medium | 0.62 |  |
-| 27 | Remove Element | [](https://leetcode.com/problems/remove-element) | Easy | 0.56 |  |
+| 27 | [[27. Remove Element\|Remove Element]] | [](https://leetcode.com/problems/remove-element) | Easy | 0.56 | ✔️ ❌ |
 | 242 | [[242. Valid anagram\|Valid Anagram]] | [](https://leetcode.com/problems/valid-anagram) | Easy | 0.52 | ✔️ ❌ |
 | 33 | Search in Rotated Sorted Array | [](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | 0.08 |  |
