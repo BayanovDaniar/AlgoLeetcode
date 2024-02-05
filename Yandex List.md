@@ -1,6 +1,8 @@
 	 
 | # | TITLE | LINK | DIFFICULTY | FREQUENCY | Completion |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+|  | [[Remove Smiles from string]] |  |  |  |  |
+|  | [[Equivalent Nodes with the same set of child notes]] |  |  |  |  |
 | 356 | [[356. Line Reflection \| Line Reflection]] | [](https://leetcode.com/problems/line-reflection) | Medium | 289.38 | ✔️ ❌ |
 | 1493 | [[1493. Longest Subarray of 1's After Deleting One Element\|Longest Subarray of 1's After Deleting One Element]] | [](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | 239.56 | ✔️ ❌ |
 | 2636 | [[2636. Promise Pool\|Promise Pool]] ==JavaScriptOnly== | [](https://leetcode.com/problems/promise-pool) | Medium | 234.29 | ❌ ❌ |
