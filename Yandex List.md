@@ -42,7 +42,7 @@
 | 239 | Sliding Window Maximum | [](https://leetcode.com/problems/sliding-window-maximum) | <span style="color:red;">Hard</span> | 4.63 |  |
 | 20 | [[20. Valid Parentheses\|Valid Parentheses]] | [](https://leetcode.com/problems/valid-parentheses) | <span style="color:green;">Easy</span> | 4.47 | ✔️ ❌ |
 | 485 | Max Consecutive Ones | [](https://leetcode.com/problems/max-consecutive-ones) | <span style="color:green;">Easy</span> | 4.40 |  |
-| 71 | Simplify Path | [](https://leetcode.com/problems/simplify-path) | <span style="color:orange;">Medium</span> | 3.85 |  |
+| 71 | [[71. Simplify Path\|Simplify Path]] | [](https://leetcode.com/problems/simplify-path) | <span style="color:orange;">Medium</span> | 3.85 |  |
 | 101 | Symmetric Tree | [](https://leetcode.com/problems/symmetric-tree) | <span style="color:green;">Easy</span> | 3.51 |  |
 | 234 | Palindrome Linked List | [](https://leetcode.com/problems/palindrome-linked-list) | <span style="color:green;">Easy</span> | 3.43 |  |
 | 155 | [[155. Min Stack\|Min Stack]] | [](https://leetcode.com/problems/min-stack) | <span style="color:orange;">Medium</span> | 3.22 | ✔ ✔ |
