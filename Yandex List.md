@@ -1,4 +1,4 @@
-	 
+
 | # | TITLE | LINK | DIFFICULTY | FREQUENCY | Completion |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  | [[HexSum]] |  |  |  |  |
