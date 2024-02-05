@@ -1,6 +1,7 @@
 	 
 | # | TITLE | LINK | DIFFICULTY | FREQUENCY | Completion |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+|  | [[HexSum]] |  |  |  |  |
 |  | [[Remove Smiles from string]] |  |  |  |  |
 |  | [[Equivalent Nodes with the same set of child notes]] |  |  |  |  |
 | 356 | [[356. Line Reflection \| Line Reflection]] | [](https://leetcode.com/problems/line-reflection) | <span style="color:orange;">Medium</span> | 289.38 | ✔️ ❌ |
