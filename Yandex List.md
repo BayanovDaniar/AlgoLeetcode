@@ -26,8 +26,8 @@
 | 438 | [[438. Find All Anagrams in a String\|Find All Anagrams in a String]] | [](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | 18.81 | ✔️ ❌ |
 | 283 | [[283. Move Zeroes\|Move Zeroes]] | [](https://leetcode.com/problems/move-zeroes) | Easy | 18.73 | ✔️ ❌ |
 | 680 | [[680. Valid Palindrome II\|Valid Palindrome II]] | [](https://leetcode.com/problems/valid-palindrome-ii) | Easy | 16.81 | ✔️ ❌ |
-| 93 | Restore IP Addresses | [](https://leetcode.com/problems/restore-ip-addresses) | Medium | 15.01 |  |
-| 301 | Remove Invalid Parentheses | [](https://leetcode.com/problems/remove-invalid-parentheses) | Hard | 14.73 |  |
+| 93 | [[93. Restore IP Addresses\|Restore IP Addresses]] | [](https://leetcode.com/problems/restore-ip-addresses) | Medium | 15.01 |  |
+| 301 | Remove Invalid Parentheses | [](https://leetcode.com/problems/remove-invalid-parentheses) | <span style="color:red;">Hard</span> | 14.73 |  |
 | 205 | [[205. Isomorphic Strings\|Isomorphic Strings]] | [](https://leetcode.com/problems/isomorphic-strings) | Easy | 14.50 | ✔️ ❌ |
 | 657 | [[657. Robot Return to Origin\|Robot Return to Origin]] | [](https://leetcode.com/problems/robot-return-to-origin) | Easy | 13.26 | ✔️ ❌ |
 | 98 | [[98. Validate Binary Search Tree\|Validate Binary Search Tree]] | [](https://leetcode.com/problems/validate-binary-search-tree) | Medium | 13.19 | ✔️ ❌ |
@@ -36,9 +36,9 @@
 | 200 | Number of Islands | [](https://leetcode.com/problems/number-of-islands) | Medium | 8.89 |  |
 | 763 | Partition Labels | [](https://leetcode.com/problems/partition-labels) | Medium | 8.57 |  |
 | 146 | LRU Cache | [](https://leetcode.com/problems/lru-cache) | Medium | 8.12 |  |
-| 135 | Candy | [](https://leetcode.com/problems/candy) | Hard | 7.61 |  |
+| 135 | Candy | [](https://leetcode.com/problems/candy) | <span style="color:red;">Hard</span> | 7.61 |  |
 | 121 | Best Time to Buy and Sell Stock | [](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | 7.09 |  |
-| 239 | Sliding Window Maximum | [](https://leetcode.com/problems/sliding-window-maximum) | Hard | 4.63 |  |
+| 239 | Sliding Window Maximum | [](https://leetcode.com/problems/sliding-window-maximum) | <span style="color:red;">Hard</span> | 4.63 |  |
 | 20 | [[20. Valid Parentheses\|Valid Parentheses]] | [](https://leetcode.com/problems/valid-parentheses) | Easy | 4.47 | ✔️ ❌ |
 | 485 | Max Consecutive Ones | [](https://leetcode.com/problems/max-consecutive-ones) | Easy | 4.40 |  |
 | 71 | Simplify Path | [](https://leetcode.com/problems/simplify-path) | Medium | 3.85 |  |
@@ -46,12 +46,12 @@
 | 234 | Palindrome Linked List | [](https://leetcode.com/problems/palindrome-linked-list) | Easy | 3.43 |  |
 | 155 | [[155. Min Stack\|Min Stack]] | [](https://leetcode.com/problems/min-stack) | Medium | 3.22 | ✔ ✔ |
 | 300 | Longest Increasing Subsequence | [](https://leetcode.com/problems/longest-increasing-subsequence) | Medium | 3.14 |  |
-| 42 | [[42. Trapping Rain Water\|Trapping Rain Water]] | [](https://leetcode.com/problems/trapping-rain-water) | Hard | 2.75 | ✔️ ❌ |
+| 42 | [[42. Trapping Rain Water\|Trapping Rain Water]] | [](https://leetcode.com/problems/trapping-rain-water) | <span style="color:red;">Hard</span> | 2.75 | ✔️ ❌ |
 | 56 | Merge Intervals | [](https://leetcode.com/problems/merge-intervals) | Medium | 2.60 |  |
 | 206 | [[206. Reverse Linked List\|Reverse Linked List]] | [](https://leetcode.com/problems/reverse-linked-list) | Easy | 2.55 | ✔️ ❌ |
 | 150 | Evaluate Reverse Polish Notation | [](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | 2.15 |  |
-| 76 | Minimum Window Substring | [](https://leetcode.com/problems/minimum-window-substring) | Hard | 2.02 |  |
-| 124 | Binary Tree Maximum Path Sum | [](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard | 2.00 |  |
+| 76 | Minimum Window Substring | [](https://leetcode.com/problems/minimum-window-substring) | <span style="color:red;">Hard</span> | 2.02 |  |
+| 124 | Binary Tree Maximum Path Sum | [](https://leetcode.com/problems/binary-tree-maximum-path-sum) | <span style="color:red;">Hard</span> | 2.00 |  |
 | 347 | Top K Frequent Elements | [](https://leetcode.com/problems/top-k-frequent-elements) | Medium | 0.98 |  |
 | 5 | Longest Palindromic Substring | [](https://leetcode.com/problems/longest-palindromic-substring) | Medium | 0.80 |  |
 | 104 | [[104. Maximum Depth of Binary Tree\|Maximum Depth of Binary Tree]] | [](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | 0.77 | ✔️ ❌ |
