@@ -3,23 +3,21 @@
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 356 | [[356. Line Reflection \| Line Reflection]] | [](https://leetcode.com/problems/line-reflection) | Medium | 289.38 | ✔️ ❌ |
 | 1493 | [[1493. Longest Subarray of 1's After Deleting One Element\|Longest Subarray of 1's After Deleting One Element]] | [](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | 239.56 | ✔️ ❌ |
-| 2636 | [[2636. Promise Pool\|Promise Pool]] | [](https://leetcode.com/problems/promise-pool) | Medium | 234.29 | ❌ ❌ |
+| 2636 | [[2636. Promise Pool\|Promise Pool]] ==JavaScriptOnly== | [](https://leetcode.com/problems/promise-pool) | Medium | 234.29 | ❌ ❌ |
 | 161 | [[161. One Edit Distance \|One Edit Distance]] | [](https://leetcode.com/problems/one-edit-distance) | Medium | 184.47 | ✔️ ❌ |
 | 849 | [[849. Maximize Distance to Closest Person\|Maximize Distance to Closest Person]] | [](https://leetcode.com/problems/maximize-distance-to-closest-person) | Medium | 166.93 | ✔️ ❌ |
 | 2241 | [[2241. Design an ATM Machine\|Design an ATM Machine]] | [](https://leetcode.com/problems/design-an-atm-machine) | Medium | 136.33 | ✔️ ❌ |
 | 228 | [[228. Summary Ranges\|Summary Ranges]] | [](https://leetcode.com/problems/summary-ranges) | Easy | 126.56 | ✔️ ❌ |
 | 362 | [[362. Design Hit Counter\|Design Hit Counter]] | [](https://leetcode.com/problems/design-hit-counter) | Medium | 99.78 | ✔️ ❌ |
 | 658 | [[658. Find K Closest Elements\|Find K Closest Elements]] | [](https://leetcode.com/problems/find-k-closest-elements) | Medium | 84.40 | ✔️ ❌ |
-| 2625 | Flatten Deeply Nested Array (JavaScriptOnly) | [](https://leetcode.com/problems/flatten-deeply-nested-array) | Medium | 67.79 |  |
 | 977 | [[977. Squares of a Sorted Array\|Squares of a Sorted Array]] | [](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | 60.40 | ✔️ ❌ |
 | 340 | Longest Substring with At Most K Distinct Characters | [](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) | Medium | 49.64 |  |
-| 380 | Insert Delete GetRandom O(1) | [](https://leetcode.com/problems/insert-delete-getrandom-o1) | Medium | 47.52 |  |
-| 2694 | Event Emitter | [](https://leetcode.com/problems/event-emitter) | Medium | 34.83 |  |
+| 380 | [[380. Insert Delete GetRandom O(1) \| Insert Delete GetRandom O(1)]] | [](https://leetcode.com/problems/insert-delete-getrandom-o1) | Medium | 47.52 | ✔️ ❌ |
 | 2215 | [[2215. Find the Difference of Two Arrays\|Find the Difference of Two Arrays]] | [](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | 30.70 | ✔️ ❌ |
-| 1329 | Sort the Matrix Diagonally | [](https://leetcode.com/problems/sort-the-matrix-diagonally) | Medium | 30.31 |  |
-| 692 | Top K Frequent Words | [](https://leetcode.com/problems/top-k-frequent-words) | Medium | 27.01 |  |
+| 1329 | [[1329. Sort the Matrix Diagonally\|Sort the Matrix Diagonally]] | [](https://leetcode.com/problems/sort-the-matrix-diagonally) | Medium | 30.31 | ✔️ ❌ |
+| 692 | [[692. Top K Frequent Words\|Top K Frequent Words]] | [](https://leetcode.com/problems/top-k-frequent-words) | Medium | 27.01 | ✔️ ❌ |
 | 567 | [[567. Permutation in String\|Permutation in String]] | [](https://leetcode.com/problems/permutation-in-string) | Medium | 26.24 | ✔️ ❌ |
-| 2657 | Find the Prefix Common Array of Two Arrays | [](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | 25.62 |  |
+| 2657 | [[2657. Find the Prefix Common Array of Two Arrays\|Find the Prefix Common Array of Two Arrays]] | [](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | 25.62 | ✔️ ❌ |
 | 443 | String Compression | [](https://leetcode.com/problems/string-compression) | Medium | 25.49 |  |
 | 350 | [[350. Intersection of Two Arrays II \|Intersection of Two Arrays II]] | [](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | 22.06 |  |
 | 560 | [[560. Subarray Sum Equals K\|Subarray Sum Equals K]] | [](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | 19.76 | ✔️ ❌ |
